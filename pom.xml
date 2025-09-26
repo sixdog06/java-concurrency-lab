@@ -11,6 +11,7 @@
     <name>java-concurrency-lab</name>
     <modules>
         <module>concurrency-art</module>
+        <module>java-concurrency-in-practice</module>
     </modules>
 
 </project>
